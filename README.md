@@ -48,26 +48,26 @@ The **Hospital Management System** is a **Java-based desktop application** desig
 
 <h2>🚀 Installation & Setup</h2>
 
-<h3>🔹 Step 1: Clone the Repository</h3>
+<h3>🔹 Step 2: Clone the Repository</h3>
 <pre>
 git clone https://github.com/yourusername/Hospital-Management.git
 cd Hospital-Management
 </pre>
 
-<h3>🔹 Step 2: Import the Project</h3>
+<h3>🔹 Step 3: Import the Project</h3>
 <ul>
   <li>1️⃣ Open <b>Eclipse/IntelliJ/NetBeans</b></li>
   <li>2️⃣ Import the <b>Java Project</b></li>
   <li>3️⃣ Configure <b>MySQL Database Connection</b></li>
 </ul>
 
-<h3>🔹 Step 3: Run the Application</h3>
+<h3>🔹 Step 4: Run the Application</h3>
 <pre>
 javac Main.java
 java Main
 </pre>
 
-<h3>🔹 Step 4: Login Credentials</h3>
+<h3>🔹 Step 5: Login Credentials</h3>
 <ul>
   <li><b>Username:</b> <code>admin</code></li>
   <li><b>Password:</b> <code>admin123</code></li>
