@@ -46,49 +46,89 @@ The **Hospital Management System** is a **Java-based desktop application** desig
 - **MySQL Database Server**
 - **NetBeans / Eclipse / IntelliJ IDEA**
 
-### 🔹 **Step 2: Clone the Repository**
-```sh
+<h2>🚀 Installation & Setup</h2>
+
+<h3>🔹 Step 1: Clone the Repository</h3>
+<pre>
 git clone https://github.com/yourusername/Hospital-Management.git
 cd Hospital-Management
-🔹 Step 3: Import the Project
-1️⃣ Open Eclipse/IntelliJ/NetBeans
-2️⃣ Import the Java Project
-3️⃣ Configure MySQL Database Connection
+</pre>
 
-🔹 Step 4: Run the Application
-sh
-Copy
-Edit
+<h3>🔹 Step 2: Import the Project</h3>
+<ul>
+  <li>1️⃣ Open <b>Eclipse/IntelliJ/NetBeans</b></li>
+  <li>2️⃣ Import the <b>Java Project</b></li>
+  <li>3️⃣ Configure <b>MySQL Database Connection</b></li>
+</ul>
+
+<h3>🔹 Step 3: Run the Application</h3>
+<pre>
 javac Main.java
 java Main
-🔹 Step 5: Login Credentials
-Username: admin
-Password: admin123
-<h2 id="database-schema">🗄 Database Schema</h2>
-Table Name	Description
-patients	Stores patient details
-doctors	Stores doctor information
-appointments	Manages doctor-patient schedules
-bills	Stores invoices and payments
-inventory	Tracks hospital medicines
-users	Stores login credentials
-<h2 id="screenshots">🖼 Screenshots</h2>
-🚧 Screenshots will be added soon...
+</pre>
 
-<h2 id="future-enhancements">📈 Future Enhancements</h2>
-🔹 Online Appointment Booking
-🔹 Automated Medicine Restocking Alerts
-🔹 Enhanced Role-Based Access Control
-🔹 Integration with Cloud Database
+<h3>🔹 Step 4: Login Credentials</h3>
+<ul>
+  <li><b>Username:</b> <code>admin</code></li>
+  <li><b>Password:</b> <code>admin123</code></li>
+</ul>
 
-<h2 id="contributors">👨‍💻 Contributors</h2>
-👤 Your Name – Developer & Maintainer
-🔗 GitHub Profile
+<hr>
 
-🔹 Feel free to fork this repository and contribute! 🎉
+<h2>🗄 Database Schema</h2>
 
-csharp
-Copy
-Edit
+<table>
+  <tr>
+    <th>Table Name</th>
+    <th>Description</th>
+  </tr>
+  <tr>
+    <td><code>patients</code></td>
+    <td>Stores patient details</td>
+  </tr>
+  <tr>
+    <td><code>doctors</code></td>
+    <td>Stores doctor information</td>
+  </tr>
+  <tr>
+    <td><code>appointments</code></td>
+    <td>Manages doctor-patient schedules</td>
+  </tr>
+  <tr>
+    <td><code>bills</code></td>
+    <td>Stores invoices and payments</td>
+  </tr>
+  <tr>
+    <td><code>inventory</code></td>
+    <td>Tracks hospital medicines</td>
+  </tr>
+  <tr>
+    <td><code>users</code></td>
+    <td>Stores login credentials</td>
+  </tr>
+</table>
 
-This **README.md** file is structured using **GitHub-supported Markdown syntax** with **HTML anchor tags** for easy navigation. 🚀
+<hr>
+
+<h2>🖼 Screenshots</h2>
+<p>🚧 Screenshots will be added soon...</p>
+
+<hr>
+
+<h2>📈 Future Enhancements</h2>
+<ul>
+  <li>🔹 <b>Online Appointment Booking</b></li>
+  <li>🔹 <b>Automated Medicine Restocking Alerts</b></li>
+  <li>🔹 <b>Enhanced Role-Based Access Control</b></li>
+  <li>🔹 <b>Integration with Cloud Database</b></li>
+</ul>
+
+<hr>
+
+<h2>👨‍💻 Contributors</h2>
+<p>👤 <b>Your Name</b> – Developer & Maintainer</p>
+<p>🔗 <a href="https://github.com/yourusername">GitHub Profile</a></p>
+
+<hr>
+
+<h3>🔹 Feel free to <b>fork this repository</b> and contribute! 🎉</h3>
