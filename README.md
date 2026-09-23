@@ -123,12 +123,3 @@ java Main
   <li>🔹 <b>Integration with Cloud Database</b></li>
 </ul>
 
-<hr>
-
-<h2>👨‍💻 Contributors</h2>
-<p>👤 <b>Your Name</b> – Developer & Maintainer</p>
-<p>🔗 <a href="https://github.com/yourusername">GitHub Profile</a></p>
-
-<hr>
-
-<h3>🔹 Feel free to <b>fork this repository</b> and contribute! 🎉</h3>
